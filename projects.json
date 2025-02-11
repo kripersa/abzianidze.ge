@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Tic Tac Toe",
+    "description": "An exciting 2D platformer game built with Pixi.js.",
+    "image": "./images/tic-tac-toe.svg",
+    "link": "https://abzianidze.ge/tictactoe/index.html"
+  },
+  {
+    "title": "Pacman",
+    "description": "A turn-based strategy game powered by React and JavaScript.",
+    "image": "project2.png",
+    "link": "https://abzianidze.ge/pac-man/index.html"
+  },
+  {
+    "title": "Pong",
+    "description": "A fast-paced arcade shooter developed with HTML5 and Pixi.js.",
+    "image": "project3.png",
+    "link": "https://abzianidze.ge/pong/index.html"
+  },
+  {
+    "title": "2048",
+    "description": "An exciting 2D platformer game built with Pixi.js.",
+    "image": "project4.png",
+    "link": "https://abzianidze.ge/2048/index.html"
+  },
+  {
+    "title": "Catch The Balls",
+    "description": "An exciting 2D platformer game built with Pixi.js.",
+    "image": "project5.png",
+    "link": "https://abzianidze.ge/catchtheballs/index.html"
+  }
+]
